@@ -1,0 +1,5 @@
+software/MDK-ARM/
+software/Output/
+*.dxf~
+*.ods#
+Output
